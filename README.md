@@ -1,7 +1,7 @@
 
 # *__Hello!__*
 __I am Nikita! My nick is Ugnikinn.__
-> I love coding. I code in Python 3.
+> __I love coding. I code in Python 3.__>
 __My Telegram: [@ugnikinn](https://t.me/ugnikinn/)__
 ## My resume:
  - __I know English and Russian language.__
