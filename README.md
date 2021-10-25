@@ -1,4 +1,3 @@
-
 # *__Hello!__*
 __I am Nikita! My nick is Ugnikinn.__
 > __I love coding. I code in Python 3.__>
